@@ -26,3 +26,16 @@ The foundation of this project's analysis lies in data collected from the Medica
 - **Financial Analysis:** Compare financial implications of inpatient vs. outpatient care, aiding in cost-effective decision-making for both healthcare providers and patients.
 - **Insurance Integration:** Incorporate insurance terms and conditions to provide precise financial impact analyses based on individual patient policies.
 
+## Project Goals
+
+The goal of this project is to conduct an analysis of both inpatient and outpatient care services. The primary focus is to uncover insights regarding the differences between inpatient and outpatient care across various states. Additionally, the analysis aims to identify the most frequently used procedures in these care services. Lastly, the project includes findings related to the providers with the lowest costs for both inpatient and outpatient care.
+
+
+## COnclusions 
+
+This project's analysis sheds light on the aspects between inpatient and outpatient care services across different states.
+
+- Average cost of Inpatient procedures higher in 50 times that outpatient care in each state.
+- The lowest oupatient average cost is in Mississipi (238 dollars), the highest oupatient average cost is in New Jersey (316 dollars). The highest inpatient average cost is in Alaska state (15274 dollars), the lowest inpatient average cost in Alabama (8228 dollars).
+- The number of services for Inpatient care is less than for Outpatient care for each state (smoothly decrease from 0.18 up to 0.02)
+- The top procedures across all the states are: Level III Diagnostic and Screening Ultrasound,  Level II Echocardiogram Without Contrast,  Magnetic Resonance Imaging and Magnetic Resonance Angiography without Contrast   
