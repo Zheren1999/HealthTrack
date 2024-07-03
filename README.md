@@ -31,7 +31,7 @@ The foundation of this project's analysis lies in data collected from the Medica
 The goal of this project is to conduct an analysis of both inpatient and outpatient care services. The primary focus is to uncover insights regarding the differences between inpatient and outpatient care across various states. Additionally, the analysis aims to identify the most frequently used procedures in these care services. Lastly, the project includes findings related to the providers with the lowest costs for both inpatient and outpatient care.
 
 
-## COnclusions 
+## Conclusions 
 
 This project's analysis sheds light on the aspects between inpatient and outpatient care services across different states.
 
